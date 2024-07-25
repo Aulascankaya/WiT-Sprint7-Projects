@@ -1,0 +1,114 @@
+{
+  "numTotalTestSuites": 1,
+  "numPassedTestSuites": 1,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 9,
+  "numPassedTests": 9,
+  "numFailedTests": 0,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1721891769825,
+  "success": true,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Login componentinde usehistory kullanılmış",
+          "status": "passed",
+          "title": "Login componentinde usehistory kullanılmış",
+          "duration": 27,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Login componentinde form verileri için useState kullanılmış ve başlangıç değeri tanımlanmış",
+          "status": "passed",
+          "title": "Login componentinde form verileri için useState kullanılmış ve başlangıç değeri tanımlanmış",
+          "duration": 8,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Login componentinde handleChange fonksiyonu tanımlanmış",
+          "status": "passed",
+          "title": "Login componentinde handleChange fonksiyonu tanımlanmış",
+          "duration": 4,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Login componentinde handleSubmit fonksiyonu tanımlanmış",
+          "status": "passed",
+          "title": "Login componentinde handleSubmit fonksiyonu tanımlanmış",
+          "duration": 5,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " handleSubmitde preventDefault() tanımlanmış",
+          "status": "passed",
+          "title": "handleSubmitde preventDefault() tanımlanmış",
+          "duration": 6,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " handleSubmitde axios get isteği yapılmış",
+          "status": "passed",
+          "title": "handleSubmitde axios get isteği yapılmış",
+          "duration": 5,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Login form test kullanıcısı bilgileri ile doldurulunca doğru sayfaya yönleniyor",
+          "status": "passed",
+          "title": "Login form test kullanıcısı bilgileri ile doldurulunca doğru sayfaya yönleniyor",
+          "duration": 686,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Login form yanlış email, doğru password ile doldurulunca error sayfasına yönleniyor",
+          "status": "passed",
+          "title": "Login form yanlış email, doğru password ile doldurulunca error sayfasına yönleniyor",
+          "duration": 550,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Login form doğru email, yanlış password ile doldurulunca error sayfasına yönleniyor",
+          "status": "passed",
+          "title": "Login form doğru email, yanlış password ile doldurulunca error sayfasına yönleniyor",
+          "duration": 419,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1721891779211,
+      "endTime": 1721891780921,
+      "status": "passed",
+      "message": "",
+      "name": "/home/projects/vitejs-vite-rtvxvm/src/__tests__/index.test.jsx"
+    }
+  ]
+}
